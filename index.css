@@ -1,0 +1,127 @@
+html{
+    background-color:
+    #FFFFFF;
+    
+}
+
+*{
+    margin: 0%;
+}
+
+#Titulo-Superior{
+    color: #FFFFFF;
+    font-family: "Inter";
+    padding-left: 0.5%;
+}
+
+#Titulo-Inferior{
+    font-size: smaller;
+    color: #FFFFFF;
+    margin-left: 0.5%;
+    font-family: "Inter"
+}
+
+#MENU_SUPERIOR{  
+ text-align: justify;
+ background: #303030;
+ width: 95%;
+ padding-left: 5%;
+ padding-top: 10%;
+padding-bottom: 15%;
+}
+#INFORMAÇÔES1{
+    background-color: #F9F9F9;
+    display: grid;
+    grid-auto-flow:column;
+    text-align: justify;
+    justify-items: center;
+    justify-content: space-evenly;   
+    align-items: center;
+    padding-right: 9%;
+    padding-left: 0.5%;
+height: 200px;
+}
+.info
+{
+background-color:#F9F9F9;
+}
+h1{
+ font-family: "Inter";
+ font-weight: bolder;   
+}
+p{
+  font-family: "Inter";
+  font-size: medium;
+}
+#INFORMAÇÔES2{
+background-color: #FFFFFF;
+display: grid;
+grid-auto-flow: column;
+align-items: center;
+margin-bottom: 5%;
+padding-top: 5%;
+}
+#texto-info2{ 
+Width:735px;
+padding-left: 12.5%;
+}
+#Titulo-Info2
+{
+font-family: "Inter";
+font-size: x-large;
+}
+
+#Paragrafo-Info2{
+font-size: small;
+text-align: justify;
+width: 500px;
+font-family: "Inter";
+}
+img{
+width: 510px;
+height: 500px;
+border-radius: 30px;
+}
+
+#rodape{
+display: grid;
+grid-auto-flow: row;    
+background-color: #303030;
+justify-items: center;
+
+}
+
+#Titulo-form{
+color: #FFFFFF;    
+font-family: "Inter";
+}
+
+#Formulario{
+display: grid;
+grid-auto-flow: row;
+row-gap: 50px;
+justify-items: center;
+padding-top:5%;
+padding-bottom: 5%;
+}
+
+.INP{
+width: 508px;
+height: 72px;
+border-radius: 10px;
+font-family: "Raleway";
+padding-left: 4%;
+}
+
+#SUB
+{
+    width: 286px;
+    height: 74px;
+    border-radius: 10px;
+    background-color: #C07212;
+    color: #F9F9F9;
+    font-family: "Raleway";
+    font-weight: 700;
+    font-size: larger;
+
+}
